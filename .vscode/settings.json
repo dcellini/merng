@@ -1,0 +1,54 @@
+{
+  "explorer.confirmDelete": false,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 0,
+  "terminal.integrated.shell.osx": "zsh",
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.autofetch": true,
+  "[yaml]": {
+    "editor.formatOnSave": false
+  },
+  "[html]": {
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "gitlens.gitCommands.closeOnFocusOut": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "sync.autoUpload": false,
+  "editor.fontFamily": "Monaco, 'Courier New', monospace",
+  "editor.fontWeight": 500,
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Cobalt2",
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#FFC600",
+    "titleBar.inactiveBackground": "#FFC600CC",
+    "sideBarSectionHeader.background": "#FFC600",
+    "sideBarSectionHeader.foreground": "#000",
+    "editorError.foreground": "#6060ff",
+    "editorWarning.foreground": "#ffc400",
+    "editorInfo.foreground": "#35ffab"
+  },
+  "workbench.startupEditor": "newUntitledFile"
+}
